@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "546087067514",
+    "firebase_url": "https://myfirebaseauthapp-28061.firebaseio.com",
+    "project_id": "myfirebaseauthapp-28061",
+    "storage_bucket": "myfirebaseauthapp-28061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546087067514:android:4de25428f3136397",
+        "android_client_info": {
+          "package_name": "edu.orangecoastcollege.cs273.bfazeli.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546087067514-5qckd8qde5ke2rfarsg8bv42502apkjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4E50QsxGvSDbiDxztJEqf-jMI2Upd-MI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
